@@ -2,10 +2,6 @@
 
 ● Ujjwal Gupta
 
-● Supriya kumari Gupta
-
-● Himanshi kumari Gupta
-
 Content Based Recommender System Working
 Content Based Recommender System recommends items similar to the items user likes. How does it decide which item is most similar to the item user likes. Here we use the similarity scores.
 Content based recommender systems recommends similar items used by the user in the past.
@@ -21,10 +17,10 @@ Here we’ll use cosine similarity between text details of items. In the example
 
 ![cosine](https://user-images.githubusercontent.com/57566639/103796867-c1eb1b00-506d-11eb-8fb4-20e061d8b27d.jpg)
 
-This is a hollywood movie recommender system built with Python. We have used IMDB 5000 Movie Dataset to built this.
+This is a hollywood movie recommender system built with Python. Used IMDB 5000 Movie Dataset to built this.
 Link to dataset :- https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 
-We also used Flask web framework in built in Python to put in on web.
+I have also used Flask web framework in built in Python to put in on web.
 
 # Files Brief
 *In the preprocessing.ipynb file the Data Preprocessing part has been done. 
