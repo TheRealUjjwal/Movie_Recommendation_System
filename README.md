@@ -1,6 +1,4 @@
-# Movie-Recommender-System
-
-● Ziaul Kadri
+# Movie_Recommendation_System
 
 ● Ujjwal Gupta
 
