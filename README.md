@@ -1,6 +1,9 @@
 # Movie_Recommendation_System
 
-● Ujjwal Gupta
+> Ujjwal Gupta
+> Ziaul Kadri
+> Supriya Kumari Gupta
+> Himanshi Kumari Gupta
 
 Content and Collaborative Based Recommender System Working
 
