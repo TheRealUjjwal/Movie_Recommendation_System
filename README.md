@@ -2,7 +2,10 @@
 
 ● Ujjwal Gupta
 
-Content Based Recommender System Working
+Content and Collaborative Based Recommender System Working
+
+***************************************************************
+
 Content Based Recommender System recommends items similar to the items user likes. How does it decide which item is most similar to the item user likes. Here we use the similarity scores.
 Content based recommender systems recommends similar items used by the user in the past.
 
